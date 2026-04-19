@@ -121,7 +121,7 @@ ___
   - [ ] Неотмеченный подпункт
     1. Подподпункт
 
-[Prim](https://www.un.org/sites/un2.un.org/files/2021/09/the-sun-shining-brightly-over-knoxville-tennessee.jpg) без подсказки
+[Prim](https://sun9-10.userapi.com/s/v1/ig2/HR6ohDcZ_tkWjsTeKRO3-iB5SGDVhPDHmgf0IFb1CHF8vpq_2FyJjvZeNL_CPb9qVPbPWchvY3Zxwadblk9Dsnyx.jpg?quality=95&as=32x34,48x52,72x78,108x116,160x172,240x258,360x388,480x517,540x581,640x689,720x775,1080x1163,1280x1378,1288x1387&from=bu&cs=1288x0) без подсказки
 
 [Prim](https://www.un.org/sites/un2.un.org/files/2021/09/the-sun-shining-brightly-over-knoxville-tennessee.jpg "Всплывающая подсказка") с подсказкой
 
