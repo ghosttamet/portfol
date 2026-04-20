@@ -173,3 +173,7 @@ console.log(x + y);
 |Запись|Запись|Запись|
 
 ![Ссылка](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ghosttamet&theme=dark&hide_border=true&border_radius=9&short_numbers=true)](https://git.io/streak-stats)
